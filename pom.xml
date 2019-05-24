@@ -47,7 +47,7 @@
         		<groupId>org.mockito</groupId>
         		<artifactId>mockito-core</artifactId>
         		<version>2.15.0</version>
-    		</dependency> -->
+    		</dependency>-->
 		
 		
 	</dependencies>
@@ -74,7 +74,7 @@
 			<id>openshift</id>
 			<build>
 				<!-- <finalName>{APP_NAME}</finalName>  -->
-				<finalName>HelloWorld</finalName>
+				<finalName>HelloWorld-0.0.1-SNAPSHOT</finalName>
 				<plugins>
 					<plugin>
 						<artifactId>maven-war-plugin</artifactId>
