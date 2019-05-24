@@ -67,7 +67,7 @@
 			<id>openshift</id>
 			<build>
 				<!-- <finalName>{APP_NAME}</finalName>  -->
-				<finalName>helloworld</finalName>
+				<finalName>HelloWorld</finalName>
 				<plugins>
 					<plugin>
 						<artifactId>maven-war-plugin</artifactId>
